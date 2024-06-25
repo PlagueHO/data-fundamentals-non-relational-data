@@ -9,7 +9,8 @@
 				"ms-azuretools.vscode-azurestorage",
 				"ms-vscode.azure-account",
 				"ms-azuretools.vscode-azureresourcegroups",
-				"ms-azuretools.vscode-cosmosdb"
+				"ms-azuretools.vscode-cosmosdb",
+				"GitHub.copilot-chat"
 			]
 		}
 	}
