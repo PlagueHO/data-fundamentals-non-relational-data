@@ -4,62 +4,20 @@ This repository contains the step-by-step instructions for the non-relational da
 
 ![Title Slide](/images/data-fundamentals-non-relational-data.png)
 
-## Azure Blob Storage
+## Running the tutorials
 
-In this task, we will look at how to create an Azure Blob Storage account and upload a file to it.
+To run through each tutorial, you will need an Azure subscription. If you don't have one, you can create a free account [here](https://aka.ms/azurefree).
 
-1. Open the Azure portal.
-2. Search for `Storage accounts` and click on it.
-3. Click on the `+ Create` button to create a new storage account.
-4. Fill in the necessary details to create a new storage account.
-5. After the storage account is created, click on the `Containers` tab and create a new container.
-6. Upload a file to the container.
+You should open this repository in GitHub Codespaces. If you are not already in GitHub Codespaces, you can open it by clicking on the `Code` button and selecting `Open with Codespaces`.
 
-## Azure Data Lake Storage
+Each tutorial is in a separate Jupyter notebook in the [tutorials](/tutorials) folder. You can open each notebook and run the code cells to follow along with the tutorial.
 
-In this task, we will look at how to create an Azure Data Lake Storage account and upload a file to it.
-
-1. Open the Azure portal.
-2. Search for `Storage accounts` and click on it.
-3. Click on the `+ Create` button to create a new storage account.
-4. Fill in the necessary details to create a new storage account.
-5. After the storage account is created, click on the `Containers` tab and create a new container.
-6. Upload a file to the container.
-
-## Azure Files
-
-In this task, we will look at how to create an Azure Files account and upload a file to it.
-
-1. Open the Azure portal.
-2. Search for `Storage accounts` and click on it.
-3. Click on the `+ Create` button to create a new storage account.
-4. Fill in the necessary details to create a new storage account.
-5. After the storage account is created, click on the `Files` tab and create a new file share.
-6. Upload a file to the file share.
-
-
-## Azure Table Storage
-
-In this task, we will look at how to create an Azure Table Storage account and add a new table to it.
-
-1. Open the Azure portal.
-2. Search for `Storage accounts` and click on it.
-3. Click on the `+ Create` button to create a new storage account.
-4. Fill in the necessary details to create a new storage account.
-5. After the storage account is created, click on the `Tables` tab and add a new table to the storage account.
-
-## Azure Storage Explorer
-
-
-## Azure Cosmos DB
-
-In this task, we will look at how to create an Azure Cosmos DB account and create a new database and collection.
-
-1. Open the Azure portal.
-2. Search for `Azure Cosmos DB` and click on it.
-3. Click on the `+ Add` button to create a new Azure Cosmos DB account.
-4. Fill in the necessary details to create a new Azure Cosmos DB account.
-5. After the account is created, click on the `Data Explorer` tab and create a new database and collection.
+- [01 - Azure Blob Storage](/tutorials/01-azure-blob-storage.ipynb)
+- [02 - Azure Data Lake Storage Gen2](/tutorials/02-azure-data-lake-storage-gen2.ipynb)
+- [03 - Azure Files](/tutorials/03-azure-files.ipynb)
+- [04 - Azure Table Storage](/tutorials/04-azure-table-storage.ipynb)
+- [05 - AzCopy & Azure Storage Explorer](/tutorials/05-azcopy-azure-storage-explorer.ipynb)
+- [06 - Azure Cosmos DB](/tutorials/06-azure-cosmos-db.ipynb)
 
 ## Conclusion
 

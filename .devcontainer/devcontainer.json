@@ -13,5 +13,7 @@
 				"GitHub.copilot-chat"
 			]
 		}
-	}
+	},
+	// Add a postCreateCommand to install Python dependencies
+    "postCreateCommand": "pip install -r /workspace/requirements.txt"
 }
