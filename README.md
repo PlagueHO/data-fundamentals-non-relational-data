@@ -15,16 +15,6 @@ In this task, we will look at how to create an Azure Blob Storage account and up
 5. After the storage account is created, click on the `Containers` tab and create a new container.
 6. Upload a file to the container.
 
-## Azure Table Storage
-
-In this task, we will look at how to create an Azure Table Storage account and add a new table to it.
-
-1. Open the Azure portal.
-2. Search for `Storage accounts` and click on it.
-3. Click on the `+ Create` button to create a new storage account.
-4. Fill in the necessary details to create a new storage account.
-5. After the storage account is created, click on the `Tables` tab and add a new table to the storage account.
-
 ## Azure Data Lake Storage
 
 In this task, we will look at how to create an Azure Data Lake Storage account and upload a file to it.
@@ -35,6 +25,31 @@ In this task, we will look at how to create an Azure Data Lake Storage account a
 4. Fill in the necessary details to create a new storage account.
 5. After the storage account is created, click on the `Containers` tab and create a new container.
 6. Upload a file to the container.
+
+## Azure Files
+
+In this task, we will look at how to create an Azure Files account and upload a file to it.
+
+1. Open the Azure portal.
+2. Search for `Storage accounts` and click on it.
+3. Click on the `+ Create` button to create a new storage account.
+4. Fill in the necessary details to create a new storage account.
+5. After the storage account is created, click on the `Files` tab and create a new file share.
+6. Upload a file to the file share.
+
+
+## Azure Table Storage
+
+In this task, we will look at how to create an Azure Table Storage account and add a new table to it.
+
+1. Open the Azure portal.
+2. Search for `Storage accounts` and click on it.
+3. Click on the `+ Create` button to create a new storage account.
+4. Fill in the necessary details to create a new storage account.
+5. After the storage account is created, click on the `Tables` tab and add a new table to the storage account.
+
+## Azure Storage Explorer
+
 
 ## Azure Cosmos DB
 
