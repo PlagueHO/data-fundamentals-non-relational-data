@@ -8,6 +8,12 @@ This repository contains the step-by-step instructions for the non-relational da
 
 To run through each tutorial, you will need an Azure subscription. If you don't have one, you can create a free account [here](https://aka.ms/azurefree).
 
+> Important: These tutorials assume foundational Azure knowledge and how to use the Azure Portal. If you are new to Azure, you can learn more about it [here](https://docs.microsoft.com/en-us/learn/azure/).
+
+Most of the code is written in Python, but there is also some PowerShell. Being able to read/write these languages is not essential and you should still be able to understand the gist.
+
+You can run the code in your local environment or in a GitHub Codespaces environment.
+
 You should open this repository in GitHub Codespaces. If you are not already in GitHub Codespaces, you can open it by clicking on the `Code` button and selecting `Open with Codespaces`.
 
 Each tutorial is in a separate Jupyter notebook in the [tutorials](/tutorials) folder. You can open each notebook and run the code cells to follow along with the tutorial.
