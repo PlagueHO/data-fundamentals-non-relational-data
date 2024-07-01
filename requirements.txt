@@ -1,3 +1,4 @@
 azure-cosmosdb-table
 azure-cosmos
 azure-storage-blob
+azure-storage-file-share
