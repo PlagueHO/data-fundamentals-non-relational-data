@@ -2,3 +2,6 @@ azure-cosmosdb-table
 azure-cosmos
 azure-storage-blob
 azure-storage-file-share
+azure-storage-file-datalake
+pandas
+numpy
