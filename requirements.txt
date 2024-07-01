@@ -1,1 +1,3 @@
 azure-cosmosdb-table
+azure-cosmos
+azure-storage-blob
